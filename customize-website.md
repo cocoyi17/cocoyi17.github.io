@@ -68,7 +68,7 @@
 
 
 
-  <meta name="keywords" content="Hexo, NexT">
+  <meta name="keywords" content="hexo">
 
 
 
@@ -79,14 +79,18 @@
 
 
 
-<meta name="keywords" content="英语，翻译，新技术">
-<meta property="og:type" content="website">
-<meta property="og:title" content="一只上进的懒猪">
-<meta property="og:url" content="http://yoursite.com/tags/翻译/index.html">
+<meta name="description" content="本网站建设参考链接： 苏克的 github 苏克的博客  解决个人域名 cocoyi.online 访问不安全的问题  文章积累到一定量后开始做 SEO，参考Hexo-next百度和谷歌搜索优化。  网站样式继续个性化定制参考：  4块钱,用Github+Hexo搭建你的个人博客：美化篇 打造个性超赞博客Hexo+NexT+GitHubPages的超深度优化   hexo主题next添加标签后会在">
+<meta name="keywords" content="hexo">
+<meta property="og:type" content="article">
+<meta property="og:title" content="博客网站 To-do (20190323 更新)">
+<meta property="og:url" content="http://yoursite.com/customize-website.md">
 <meta property="og:site_name" content="一只上进的懒猪">
+<meta property="og:description" content="本网站建设参考链接： 苏克的 github 苏克的博客  解决个人域名 cocoyi.online 访问不安全的问题  文章积累到一定量后开始做 SEO，参考Hexo-next百度和谷歌搜索优化。  网站样式继续个性化定制参考：  4块钱,用Github+Hexo搭建你的个人博客：美化篇 打造个性超赞博客Hexo+NexT+GitHubPages的超深度优化   hexo主题next添加标签后会在">
 <meta property="og:locale" content="zh-Hans">
+<meta property="og:updated_time" content="2019-03-23T16:03:43.192Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="一只上进的懒猪">
+<meta name="twitter:title" content="博客网站 To-do (20190323 更新)">
+<meta name="twitter:description" content="本网站建设参考链接： 苏克的 github 苏克的博客  解决个人域名 cocoyi.online 访问不安全的问题  文章积累到一定量后开始做 SEO，参考Hexo-next百度和谷歌搜索优化。  网站样式继续个性化定制参考：  4块钱,用Github+Hexo搭建你的个人博客：美化篇 打造个性超赞博客Hexo+NexT+GitHubPages的超深度优化   hexo主题next添加标签后会在">
 
 
 
@@ -116,13 +120,13 @@
 
 
 
-  <link rel="canonical" href="http://yoursite.com/tags/翻译/">
+  <link rel="canonical" href="http://yoursite.com/customize-website.md">
 
 
 
 
 
-  <title>标签: 翻译 | 一只上进的懒猪</title>
+  <title>博客网站 To-do (20190323 更新) | 一只上进的懒猪</title>
   
 
 
@@ -143,7 +147,7 @@
     
   
 
-  <div class="container sidebar-position-left ">
+  <div class="container sidebar-position-left page-post-detail">
     <div class="headband"></div>
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
@@ -269,52 +273,255 @@
           <div id="content" class="content">
             
 
-  
-  
-  
-  <div class="post-block tag">
+  <div id="posts" class="posts-expand">
+    
 
-    <div id="posts" class="posts-collapse">
-      <div class="collection-title">
-        <h1>翻译<small>标签</small>
-        </h1>
-      </div>
+  
 
-      
-        
+  
+  
+  
 
   <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/customize-website.md">
 
-      <h2 class="post-title">
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Roedeercuco">
+      <meta itemprop="description" content>
+      <meta itemprop="image" content="http://pnxc7goo4.bkt.clouddn.com/%E7%8C%AA_%E5%A4%B4%E5%83%8F.png">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="一只上进的懒猪">
+    </span>
+
+    
+      <header class="post-header">
+
         
-            <a class="post-title-link" href="/prepare-for-catti.md" itemprop="url">
-              
-                <span itemprop="name">如何科学备考 CATTI 三笔和二笔考试？</span>
-              
-            </a>
         
-      </h2>
+          <h1 class="post-title" itemprop="name headline">博客网站 To-do (20190323 更新)</h1>
+        
 
-      <div class="post-meta">
-        <time class="post-time" itemprop="dateCreated" datetime="2019-03-22T14:05:11+08:00" content="2019-03-22">
-          03-22
-        </time>
-      </div>
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2019-03-24T00:03:43+08:00">
+                2019-03-24
+              </time>
+            
 
-    </header>
-  </article>
+            
 
+            
+          </span>
+
+          
+            <span class="post-category">
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/to-do/" itemprop="url" rel="index">
+                    <span itemprop="name">to-do</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+
+          
+            <span class="post-meta-divider">|</span>
+            <span class="page-pv"><i class="fa fa-eye"></i>
+            <span class="busuanzi-value" id="busuanzi_value_page_pv"></span>
+            </span>
+          
+
+          
+            <div class="post-wordcount">
+              
+                
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-file-word-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">字数统计&#58;</span>
+                
+                <span title="字数统计">
+                  231 字
+                </span>
+              
+
+              
+                <span class="post-meta-divider">|</span>
+              
+
+              
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-clock-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">阅读时长 &asymp;</span>
+                
+                <span title="阅读时长">
+                  1 分钟
+                </span>
+              
+            </div>
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <p>本网站建设参考链接：</p>
+<p><a href="https://github.com/makcyun/makcyun.github.io" target="_blank" rel="noopener">苏克的 github</a></p>
+<p><a href="https://www.makcyun.top/hexo02.html" target="_blank" rel="noopener">苏克的博客</a></p>
+<ol>
+<li><p>解决个人域名 cocoyi.online 访问不安全的问题</p>
+</li>
+<li><p>文章积累到一定量后开始做 SEO，参考<a href="http://www.ehcoo.com/seo.html" target="_blank" rel="noopener">Hexo-next百度和谷歌搜索优化</a>。</p>
+</li>
+<li><p>网站样式继续个性化定制参考：</p>
+<ul>
+<li><a href="https://www.makcyun.top/hexo02.html" target="_blank" rel="noopener">4块钱,用Github+Hexo搭建你的个人博客：美化篇</a></li>
+<li><a href="https://reuixiy.github.io/technology/computer/computer-aided-art/2017/06/09/hexo-next-optimization.html" target="_blank" rel="noopener">打造个性超赞博客Hexo+NexT+GitHubPages的超深度优化</a></li>
+</ul>
+</li>
+<li><p>hexo主题next添加标签后会在文章页脚显示标签的icon怎么换那个难看的icon？</p>
+</li>
+<li><p>在hexo内优化写出文章的效果，参考<a href="https://hexo.io/zh-cn/docs/writing.html" target="_blank" rel="noopener">hexo官方教程</a>。</p>
+</li>
+<li><p>文章多了以后加置顶功能或参考苏克博客的“最受欢迎”功能。</p>
+</li>
+<li><p>加支付宝打赏功能。</p>
+</li>
+<li><p>加分享功能，至少能分享到微信。样式参考：<a href="http://www.cduyzh.com/hexo-settings-3/。" target="_blank" rel="noopener">http://www.cduyzh.com/hexo-settings-3/。</a></p>
+</li>
+<li><p>自动在文章底部加微信公众号二维码及推广话语。</p>
+</li>
+</ol>
 
       
     </div>
+    
+    
+    
 
+    
+
+    
+      <div>
+        <div style="padding: 10px 0; margin: 20px auto; width: 90%; text-align: center;">
+  <div>你一打赏，我就写得更来劲了</div>
+  <button id="rewardButton" disable="enable" onclick="var qr = document.getElementById('QR'); if (qr.style.display === 'none') {qr.style.display='block';} else {qr.style.display='none'}">
+    <span>打赏</span>
+  </button>
+  <div id="QR" style="display: none;">
+
+    
+      <div id="wechat" style="display: inline-block">
+        <img id="wechat_qr" src="/images/wechatpay.jpg" alt="Roedeercuco 微信支付">
+        <p>微信支付</p>
+      </div>
+    
+
+    
+
+    
+
+  </div>
+</div>
+
+      </div>
+    
+
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/hexo/" rel="tag"># hexo</a>
+          
+        </div>
+      
+
+      
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/prepare-for-catti.md" rel="next" title="如何科学备考 CATTI 三笔和二笔考试？">
+                <i class="fa fa-chevron-left"></i> 如何科学备考 CATTI 三笔和二笔考试？
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
   </div>
   
   
   
+  </article>
 
-  
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
 
 
           </div>
@@ -322,6 +529,10 @@
 
 
           
+
+  
+
+
 
         </div>
         
@@ -579,6 +790,10 @@
 
 
   
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.4"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.4"></script>
+
+
 
   
 

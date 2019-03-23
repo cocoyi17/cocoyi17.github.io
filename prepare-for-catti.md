@@ -629,6 +629,10 @@
 
           <div class="post-nav-prev post-nav-item">
             
+              <a href="/customize-website.md" rel="prev" title="博客网站 To-do (20190323 更新)">
+                博客网站 To-do (20190323 更新) <i class="fa fa-chevron-right"></i>
+              </a>
+            
           </div>
         </div>
       
@@ -706,7 +710,7 @@
               
                 <a href="/archives/">
               
-                  <span class="site-state-item-count">2</span>
+                  <span class="site-state-item-count">3</span>
                   <span class="site-state-item-name">日志</span>
                 </a>
               </div>
@@ -717,7 +721,7 @@
               
               <div class="site-state-item site-state-categories">
                 <a href="/categories/index.html">
-                  <span class="site-state-item-count">1</span>
+                  <span class="site-state-item-count">2</span>
                   <span class="site-state-item-name">分类</span>
                 </a>
               </div>
@@ -728,7 +732,7 @@
               
               <div class="site-state-item site-state-tags">
                 <a href="/tags/index.html">
-                  <span class="site-state-item-count">2</span>
+                  <span class="site-state-item-count">3</span>
                   <span class="site-state-item-name">标签</span>
                 </a>
               </div>
@@ -814,13 +818,13 @@
     <span class="post-meta-divider">|</span>
     <span id="busuanzi_container_site_pv">总访问量：<span id="busuanzi_value_site_pv"></span> 次</span>
     <span class="post-meta-divider">|</span>
-    <span class="post-count">博客全站共 2k 字</span>
+    <span class="post-count">博客全站共 2.3k 字</span>
 
 
 <!--添加博客全站共：
 <div class="theme-info">
   <div class="powered-by"></div>
-  <span class="post-count">博客全站共 2k 字</span>
+  <span class="post-count">博客全站共 2.3k 字</span>
 </div>-->
 
         
