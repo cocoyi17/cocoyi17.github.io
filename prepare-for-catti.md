@@ -68,7 +68,7 @@
 
 
 
-  <meta name="keywords" content="Hexo, NexT">
+  <meta name="keywords" content="CATTI, 备考">
 
 
 
@@ -79,14 +79,18 @@
 
 
 
-<meta name="keywords" content="英语，翻译，新技术">
-<meta property="og:type" content="website">
-<meta property="og:title" content="一只上进的懒猪">
-<meta property="og:url" content="http://yoursite.com/tags/英语/index.html">
+<meta name="description" content="本篇文章描述了从决定参加 CATTI 三笔/二笔考试 –&amp;gt; 如何备考 –&amp;gt; 如何上考场的一切你需要注意的事项。">
+<meta name="keywords" content="CATTI, 备考">
+<meta property="og:type" content="article">
+<meta property="og:title" content="如何科学备考 CATTI 三笔和二笔考试？">
+<meta property="og:url" content="http://yoursite.com/prepare-for-catti.md">
 <meta property="og:site_name" content="一只上进的懒猪">
+<meta property="og:description" content="本篇文章描述了从决定参加 CATTI 三笔/二笔考试 –&amp;gt; 如何备考 –&amp;gt; 如何上考场的一切你需要注意的事项。">
 <meta property="og:locale" content="zh-Hans">
+<meta property="og:updated_time" content="2019-03-23T03:35:42.278Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="一只上进的懒猪">
+<meta name="twitter:title" content="如何科学备考 CATTI 三笔和二笔考试？">
+<meta name="twitter:description" content="本篇文章描述了从决定参加 CATTI 三笔/二笔考试 –&amp;gt; 如何备考 –&amp;gt; 如何上考场的一切你需要注意的事项。">
 
 
 
@@ -116,13 +120,13 @@
 
 
 
-  <link rel="canonical" href="http://yoursite.com/tags/英语/">
+  <link rel="canonical" href="http://yoursite.com/prepare-for-catti.md">
 
 
 
 
 
-  <title>标签: 英语 | 一只上进的懒猪</title>
+  <title>如何科学备考 CATTI 三笔和二笔考试？ | 一只上进的懒猪</title>
   
 
 
@@ -143,7 +147,7 @@
     
   
 
-  <div class="container sidebar-position-left ">
+  <div class="container sidebar-position-left page-post-detail">
     <div class="headband"></div>
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
@@ -269,52 +273,381 @@
           <div id="content" class="content">
             
 
-  
-  
-  
-  <div class="post-block tag">
+  <div id="posts" class="posts-expand">
+    
 
-    <div id="posts" class="posts-collapse">
-      <div class="collection-title">
-        <h1>英语<small>标签</small>
-        </h1>
-      </div>
+  
 
-      
-        
+  
+  
+  
 
   <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/prepare-for-catti.md">
 
-      <h2 class="post-title">
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Roedeercuco">
+      <meta itemprop="description" content>
+      <meta itemprop="image" content="http://pnxc7goo4.bkt.clouddn.com/%E7%8C%AA_%E5%A4%B4%E5%83%8F.png">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="一只上进的懒猪">
+    </span>
+
+    
+      <header class="post-header">
+
         
-            <a class="post-title-link" href="/prepare-for-catti.md" itemprop="url">
-              
-                <span itemprop="name">如何科学备考 CATTI 三笔和二笔考试？</span>
-              
-            </a>
         
-      </h2>
+          <h1 class="post-title" itemprop="name headline">如何科学备考 CATTI 三笔和二笔考试？</h1>
+        
 
-      <div class="post-meta">
-        <time class="post-time" itemprop="dateCreated" datetime="2019-03-22T14:05:11+08:00" content="2019-03-22">
-          03-22
-        </time>
-      </div>
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2019-03-22T14:05:11+08:00">
+                2019-03-22
+              </time>
+            
 
-    </header>
-  </article>
+            
 
+            
+          </span>
+
+          
+            <span class="post-category">
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/翻译/" itemprop="url" rel="index">
+                    <span itemprop="name">翻译</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+
+          
+            <span class="post-meta-divider">|</span>
+            <span class="page-pv"><i class="fa fa-eye"></i>
+            <span class="busuanzi-value" id="busuanzi_value_page_pv"></span>
+            </span>
+          
+
+          
+            <div class="post-wordcount">
+              
+                
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-file-word-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">字数统计&#58;</span>
+                
+                <span title="字数统计">
+                  2k 字
+                </span>
+              
+
+              
+                <span class="post-meta-divider">|</span>
+              
+
+              
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-clock-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">阅读时长 &asymp;</span>
+                
+                <span title="阅读时长">
+                  6 分钟
+                </span>
+              
+            </div>
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <p>本篇文章描述了从决定参加 CATTI 三笔/二笔考试 –&gt; 如何备考 –&gt; 如何上考场的一切你需要注意的事项。</p>
+<a id="more"></a>
+<h2 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h2><p>2018 年我收获了两张 CATTI 证书，很惭愧，身为英语翻译专业学生，分数却没有很高，实务基本上低分飘过了。不过鉴于我曾在裸考/半裸考的边缘疯狂试探，最终也达到了 60 分万岁的效果，个中还是有相当一些实用的经验可以分享给大家的。</p>
+<p>我两次参加 CATTI 都是首战，成绩如下：</p>
+<ul>
+<li><p>2018 年 5 月份三笔：综合 85、实务 63</p>
+<ul>
+<li>基本裸考（捂脸）</li>
+<li>我 5 月份的单词量（13000 左右）比 11 月考二笔时还多些，因为背单词间断了几个月</li>
+</ul>
+</li>
+<li><p>2018 年 11 月份二笔：综合 74、实务 61</p>
+<ul>
+<li>由于时间紧迫，我当时决定综合能力全靠背单词和高中语法基础，所有时间放在实务上</li>
+<li>实务练习时间少于 1 个月，主练翻译速度</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p><strong>裸考的艺术</strong>：</p>
+<ol>
+<li>裸考讲究的是吃老本。</li>
+<li>裸考的本质是一场赌博，赌的是你的老本够不够吃。</li>
+<li>裸考成功的关键是有没有自知之明。</li>
+<li>最好还是不要裸考吧，懒猪。</li>
+</ol>
+</blockquote>
+<h2 id="考试要求"><a href="#考试要求" class="headerlink" title="考试要求"></a>考试要求</h2><p>（简单两句介绍一下 CATTI 的全称和业界地位）下面我们来了解一下作为翻译业界的标杆筛选人才的考试，CATTI 具体对考生有哪些要求。</p>
+<h3 id="题型"><a href="#题型" class="headerlink" title="题型"></a>题型</h3><h3 id="扣分细则"><a href="#扣分细则" class="headerlink" title="扣分细则"></a>扣分细则</h3><h3 id="翻译速度"><a href="#翻译速度" class="headerlink" title="翻译速度"></a>翻译速度</h3><ul>
+<li><p>三笔：英译汉300-400词/时；汉译英200-300字/时</p>
+</li>
+<li><p>二笔实务（总分100分，180分钟）</p>
+<ul>
+<li>（1）英译汉2篇，900单词左右，50分，英译汉500-600词/时</li>
+<li>（2）汉译英2篇，600字左右，50分，汉译英300-400字/时</li>
+</ul>
+</li>
+</ul>
+<h3 id="考察领域"><a href="#考察领域" class="headerlink" title="考察领域"></a>考察领域</h3><h2 id="分析你自己"><a href="#分析你自己" class="headerlink" title="分析你自己"></a>分析你自己</h2><p>了解完你即将参加的考试是什么样后，我们再来看看你自己是怎么样的。</p>
+<h3 id="时间是否充分？"><a href="#时间是否充分？" class="headerlink" title="时间是否充分？"></a>时间是否充分？</h3><ul>
+<li>&lt;1月的快速备考类</li>
+<li>1-2月的有时间练习类</li>
+<li>2月的万全备考类</li>
+</ul>
+<h3 id="英文基础是否好？"><a href="#英文基础是否好？" class="headerlink" title="英文基础是否好？"></a>英文基础是否好？</h3><p>备考笔译考试所需要的英文基础里，最重要的有两点：</p>
+<ul>
+<li>单词量</li>
+<li>阅读能力</li>
+</ul>
+<h4 id="单词量"><a href="#单词量" class="headerlink" title="单词量"></a>单词量</h4><ul>
+<li><p>单词量大对于备战这类英文考试（二三笔、专四专八）的好处？</p>
+<ul>
+<li>基本上不用咋练……（再思考一下其中的原理）</li>
+<li>单词量需要多大才能通过三笔？单词量需要多大才能通过二笔？</li>
+</ul>
+</li>
+<li><p>链到另一篇怎么记单词的文章里去</p>
+</li>
+</ul>
+<blockquote>
+<p><strong>相应的词汇量要求</strong>： </p>
+<ul>
+<li>三级要求词汇8000</li>
+<li>二级要求词汇13000+</li>
+</ul>
+</blockquote>
+<h4 id="阅读能力"><a href="#阅读能力" class="headerlink" title="阅读能力"></a>阅读能力</h4><ul>
+<li><p>为什么阅读能力对翻译而言很重要？</p>
+<ul>
+<li>阅读能力也反映了你的阅读量，阅读量多了就会形成正确的好的英/中文句子的语感</li>
+</ul>
+</li>
+<li><p>语感——即时反映出这个句子可能译成什么样子</p>
+<ul>
+<li>推荐一些平时练英语阅读的公众号或 APP</li>
+</ul>
+</li>
+<li><p>一定要阅读好的文字！</p>
+</li>
+<li><p>吐槽一下中文阅读也同样重要，中文语感的缺失更难受（明明是母语，却说出来不像人话）</p>
+<ul>
+<li>推荐阅读思果的一系列论著，读大家的文字，会有自己的母语真差的感觉。</li>
+</ul>
+</li>
+</ul>
+<h4 id="二笔通过案例"><a href="#二笔通过案例" class="headerlink" title="二笔通过案例"></a>二笔通过案例</h4><p>下面有几个我身边的朋友的亲身案例：</p>
+<ul>
+<li>信科学院的妹子背过整本专八书、能啃下整本英文原版计算机教材，集中练习翻译一月+后，飘过二笔</li>
+<li>我自己单词量上万，英语翻译专业，做过比较多翻译兼职，弱点是速度不快，断断续续练习一月+后，飘过二笔</li>
+<li>其他过了二笔的同学，雅思能考7分+，英语翻译专业，平时对英语和翻译接触较多</li>
+</ul>
+<h2 id="如何科学备考"><a href="#如何科学备考" class="headerlink" title="如何科学备考"></a>如何科学备考</h2><p>明确了自己的情况后，为自己选择相应的备考方案。</p>
+<h3 id="推荐使用工具"><a href="#推荐使用工具" class="headerlink" title="推荐使用工具"></a>推荐使用工具</h3><p>其实用工具只是为了保证一点：督促你别玩手机，多做实战练习。</p>
+<ul>
+<li>Forest（保证不玩手机）</li>
+<li>Sleeptown（保证睡眠、远离熬夜）</li>
+</ul>
+<h3 id="良心翻译班"><a href="#良心翻译班" class="headerlink" title="良心翻译班"></a>良心翻译班</h3><p>如果你是那种自制力相当不好的人，建议去报个班吧。试译宝、Franky翻译班、自由翻译日记等。</p>
+<h3 id="你的备考时间还有多久？"><a href="#你的备考时间还有多久？" class="headerlink" title="你的备考时间还有多久？"></a>你的备考时间还有多久？</h3><h4 id="如果你是-lt-1-月的快速备考类"><a href="#如果你是-lt-1-月的快速备考类" class="headerlink" title="如果你是 &lt; 1 月的快速备考类"></a>如果你是 &lt; 1 月的快速备考类</h4><p>兄 dei，你很有勇气哦，我看好你。</p>
+<h5 id="翻译练习："><a href="#翻译练习：" class="headerlink" title="翻译练习："></a>翻译练习：</h5><ul>
+<li>纠正易错且易规避点，格式问题，链入我保存在有道云笔记的那篇文章（在三笔官方指定教材上也有写）</li>
+<li>20%~30%的时间看看那本官方指定教材上标准译文是咋译的，70%~80%的时间用来练习翻译和速度、并且对照参考译文进行改错 feedback！</li>
+<li>其余讲翻译理论的书不用看了，时间紧迫的情况下，实战中成长才是王道！</li>
+</ul>
+<h5 id="背单词："><a href="#背单词：" class="headerlink" title="背单词："></a>背单词：</h5><ul>
+<li>每天记多少单词</li>
+<li>怎么记单词（原理：通过每日练习的材料为自己补充新词汇）</li>
+</ul>
+<h4 id="如果你是-1-2-月的有时间练习类"><a href="#如果你是-1-2-月的有时间练习类" class="headerlink" title="如果你是 1 - 2 月的有时间练习类"></a>如果你是 1 - 2 月的有时间练习类</h4><p>嗯，你比上一层的兄 dei 多了一个月练习时间，每天多看一点就赢一点啊！</p>
+<h5 id="翻译练习：-1"><a href="#翻译练习：-1" class="headerlink" title="翻译练习："></a>翻译练习：</h5><ul>
+<li>翻译练习拉长战线，分配给看好译文的时间可以更多，练习的时间相应缩短，但每日练习时间或每周练习频率还是要保证。</li>
+<li>可以适当看看翻译理论的书作为在实战过程中遇到翻译问题的解答和补充书籍<br>最后一月，仍然还是以练习为主，以考试通过为中心</li>
+</ul>
+<h5 id="背单词：-1"><a href="#背单词：-1" class="headerlink" title="背单词："></a>背单词：</h5><ul>
+<li>每天记多少单词</li>
+<li>怎么记单词（原理：通过每日练习的材料为自己补充新词汇）</li>
+</ul>
+<h4 id="如果你是-gt-2-月的万全备考类"><a href="#如果你是-gt-2-月的万全备考类" class="headerlink" title="如果你是 &gt; 2 月的万全备考类"></a>如果你是 &gt; 2 月的万全备考类</h4><p>哇，你的自制力一定很好，现在开始准备，你能比上两层的弱鸡们多看整整一本书哦！</p>
+<h5 id="翻译练习：-2"><a href="#翻译练习：-2" class="headerlink" title="翻译练习："></a>翻译练习：</h5><ul>
+<li>选择看完其中一本（只要一本就好）讲翻译理论的书，巩固翻译的知识（其实翻译专业的学生学习翻译理论也大概只有一本书的样子，其余的翻译能力都是靠平时接触翻译接触得多才锻炼起来的）</li>
+<li>翻译练习保证每周的练习频率，推荐… 这样的时间安排（自制力不好的可以去报个班）</li>
+<li>多看好译文，多比较，多练习（RPC 原则——Read more, practice more, compare more）</li>
+</ul>
+<h5 id="背单词：-2"><a href="#背单词：-2" class="headerlink" title="背单词："></a>背单词：</h5><ul>
+<li>每天记多少单词</li>
+<li>怎么记单词（原理：通过每日练习的材料为自己补充新词汇）</li>
+</ul>
+<h2 id="做翻译练习的基本原则"><a href="#做翻译练习的基本原则" class="headerlink" title="做翻译练习的基本原则"></a>做翻译练习的基本原则</h2><ul>
+<li><p>一定要选有参考译文的原文进行练习，练完之后没有 feedback，这篇练习的效果直降 90%！</p>
+</li>
+<li><p>练习二笔一定要严格掐时，速度不练出来别想过二笔（只要有一个句子没翻基本上分就扣没了，所以一定不要在一个句子上纠结太久）</p>
+</li>
+<li><p>建议做题顺序：先做汉译英、再做英译汉（解释一下原理）</p>
+</li>
+<li><p>一定要手写练习！（我在备考之前就很久没写字了，手感都没了，不说直接在电脑上打字对时间估计不准确，卷面到时候也会很差）</p>
+</li>
+</ul>
+<h2 id="最后上考场的交代（重要！）"><a href="#最后上考场的交代（重要！）" class="headerlink" title="最后上考场的交代（重要！）"></a>最后上考场的交代（重要！）</h2><ul>
+<li>考前多少天打印准考证</li>
+<li>带的字典推荐两本</li>
+<li>考场上善用字典<ul>
+<li>别翻字典太多、太久</li>
+<li>汉英字典后有附录，很有用</li>
+</ul>
+</li>
+<li>一般及格线 60<ul>
+<li>如果考二笔实务，四篇每篇最多扣 10 分，所以一定要写完！</li>
+</ul>
+</li>
+</ul>
+<p>祝愿考试通过！</p>
 
       
     </div>
+    
+    
+    
 
+    
+
+    
+      <div>
+        <div style="padding: 10px 0; margin: 20px auto; width: 90%; text-align: center;">
+  <div>你一打赏，我就写得更来劲了</div>
+  <button id="rewardButton" disable="enable" onclick="var qr = document.getElementById('QR'); if (qr.style.display === 'none') {qr.style.display='block';} else {qr.style.display='none'}">
+    <span>打赏</span>
+  </button>
+  <div id="QR" style="display: none;">
+
+    
+      <div id="wechat" style="display: inline-block">
+        <img id="wechat_qr" src="/images/wechatpay.jpg" alt="Roedeercuco 微信支付">
+        <p>微信支付</p>
+      </div>
+    
+
+    
+
+    
+
+  </div>
+</div>
+
+      </div>
+    
+
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/英语/" rel="tag"># 英语</a>
+          
+            <a href="/tags/翻译/" rel="tag"># 翻译</a>
+          
+        </div>
+      
+
+      
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/hello-world.md" rel="next" title="Hello World">
+                <i class="fa fa-chevron-left"></i> Hello World
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
   </div>
   
   
   
+  </article>
 
-  
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
 
 
           </div>
@@ -322,6 +655,10 @@
 
 
           
+
+  
+
+
 
         </div>
         
@@ -342,8 +679,17 @@
       
 
       
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            站点概览
+          </li>
+        </ul>
+      
 
-      <section class="site-overview-wrap sidebar-panel sidebar-panel-active">
+      <section class="site-overview-wrap sidebar-panel">
         <div class="site-overview">
           <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
             
@@ -421,6 +767,22 @@
         </div>
       </section>
 
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#关于我"><span class="nav-number">1.</span> <span class="nav-text">关于我</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#考试要求"><span class="nav-number">2.</span> <span class="nav-text">考试要求</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#题型"><span class="nav-number">2.1.</span> <span class="nav-text">题型</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#扣分细则"><span class="nav-number">2.2.</span> <span class="nav-text">扣分细则</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#翻译速度"><span class="nav-number">2.3.</span> <span class="nav-text">翻译速度</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#考察领域"><span class="nav-number">2.4.</span> <span class="nav-text">考察领域</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#分析你自己"><span class="nav-number">3.</span> <span class="nav-text">分析你自己</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#时间是否充分？"><span class="nav-number">3.1.</span> <span class="nav-text">时间是否充分？</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#英文基础是否好？"><span class="nav-number">3.2.</span> <span class="nav-text">英文基础是否好？</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#单词量"><span class="nav-number">3.2.1.</span> <span class="nav-text">单词量</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#阅读能力"><span class="nav-number">3.2.2.</span> <span class="nav-text">阅读能力</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#二笔通过案例"><span class="nav-number">3.2.3.</span> <span class="nav-text">二笔通过案例</span></a></li></ol></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#如何科学备考"><span class="nav-number">4.</span> <span class="nav-text">如何科学备考</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#推荐使用工具"><span class="nav-number">4.1.</span> <span class="nav-text">推荐使用工具</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#良心翻译班"><span class="nav-number">4.2.</span> <span class="nav-text">良心翻译班</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#你的备考时间还有多久？"><span class="nav-number">4.3.</span> <span class="nav-text">你的备考时间还有多久？</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#如果你是-lt-1-月的快速备考类"><span class="nav-number">4.3.1.</span> <span class="nav-text">如果你是 &lt; 1 月的快速备考类</span></a><ol class="nav-child"><li class="nav-item nav-level-5"><a class="nav-link" href="#翻译练习："><span class="nav-number">4.3.1.1.</span> <span class="nav-text">翻译练习：</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#背单词："><span class="nav-number">4.3.1.2.</span> <span class="nav-text">背单词：</span></a></li></ol></li><li class="nav-item nav-level-4"><a class="nav-link" href="#如果你是-1-2-月的有时间练习类"><span class="nav-number">4.3.2.</span> <span class="nav-text">如果你是 1 - 2 月的有时间练习类</span></a><ol class="nav-child"><li class="nav-item nav-level-5"><a class="nav-link" href="#翻译练习：-1"><span class="nav-number">4.3.2.1.</span> <span class="nav-text">翻译练习：</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#背单词：-1"><span class="nav-number">4.3.2.2.</span> <span class="nav-text">背单词：</span></a></li></ol></li><li class="nav-item nav-level-4"><a class="nav-link" href="#如果你是-gt-2-月的万全备考类"><span class="nav-number">4.3.3.</span> <span class="nav-text">如果你是 &gt; 2 月的万全备考类</span></a><ol class="nav-child"><li class="nav-item nav-level-5"><a class="nav-link" href="#翻译练习：-2"><span class="nav-number">4.3.3.1.</span> <span class="nav-text">翻译练习：</span></a></li><li class="nav-item nav-level-5"><a class="nav-link" href="#背单词：-2"><span class="nav-number">4.3.3.2.</span> <span class="nav-text">背单词：</span></a></li></ol></li></ol></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#做翻译练习的基本原则"><span class="nav-number">5.</span> <span class="nav-text">做翻译练习的基本原则</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#最后上考场的交代（重要！）"><span class="nav-number">6.</span> <span class="nav-text">最后上考场的交代（重要！）</span></a></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
       
 
       
@@ -579,6 +941,10 @@
 
 
   
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.4"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.4"></script>
+
+
 
   
 
