@@ -4,13 +4,27 @@
   
     
     <entry>
-      <title>博客网站 To-do (20190323 更新)</title>
+      <title>My To-do List (20190323 更新)</title>
       <link href="/customize-website.html"/>
       <url>/customize-website.html</url>
       
-        <content type="html"><![CDATA[<p>这个博客还能变得更好用和更好看哦！</p><a id="more"></a><p>本网站建设参考链接：</p><p><a href="https://github.com/makcyun/makcyun.github.io" target="_blank" rel="noopener">苏克的 github</a></p><p><a href="https://www.makcyun.top/hexo02.html" target="_blank" rel="noopener">苏克的博客</a></p><ol><li><p>解决个人域名 cocoyi.online 访问不安全的问题</p></li><li><p>文章积累到一定量后开始做 SEO，参考<a href="http://www.ehcoo.com/seo.html" target="_blank" rel="noopener">Hexo-next百度和谷歌搜索优化</a>。</p></li><li><p>网站样式继续个性化定制参考：</p><ul><li><a href="https://www.makcyun.top/hexo02.html" target="_blank" rel="noopener">4块钱,用Github+Hexo搭建你的个人博客：美化篇</a></li><li>gulp压缩解决html大量留白问题：<a href="https://reuixiy.github.io/technology/computer/computer-aided-art/2017/06/09/hexo-next-optimization.html" target="_blank" rel="noopener">打造个性超赞博客Hexo+NexT+GitHubPages的超深度优化</a></li></ul></li><li><p>hexo主题next添加标签后会在文章页脚显示标签的icon怎么换那个难看的icon？</p></li><li><p>在hexo内优化写出文章的效果，参考<a href="https://hexo.io/zh-cn/docs/writing.html" target="_blank" rel="noopener">hexo官方教程</a>。</p></li><li><p>文章多了以后加置顶功能或参考苏克博客的“最受欢迎”功能。</p></li><li><p>加支付宝打赏功能。</p></li><li><p>加分享功能，至少能分享到微信。样式参考：<a href="http://www.cduyzh.com/hexo-settings-3/。" target="_blank" rel="noopener">http://www.cduyzh.com/hexo-settings-3/。</a></p></li><li><p>自动在文章底部加微信公众号二维码及推广话语。</p></li></ol>]]></content>
+        <content type="html"><![CDATA[<p>人生诶，就是在咬牙切齿爬出一个个旧坑的时候，又怀着美好的憧憬跳入新坑。</p><a id="more"></a><h2 id="博客网站建设"><a href="#博客网站建设" class="headerlink" title="博客网站建设"></a>博客网站建设</h2><p>新坑排排坐：</p><ol><li><p>解决个人域名 cocoyi.online 访问不安全的问题</p></li><li><p>文章积累到一定量后开始做 SEO，参考 <a href="http://www.ehcoo.com/seo.html" target="_blank" rel="noopener">Hexo-next 百度和谷歌搜索优化</a>。</p></li><li><p>网站样式继续个性化定制参考：</p><ul><li><a href="https://www.makcyun.top/hexo02.html" target="_blank" rel="noopener">4 块钱，用 Github+Hexo 搭建你的个人博客：美化篇</a></li><li>gulp 压缩解决 html 大量留白问题：<a href="https://reuixiy.github.io/technology/computer/computer-aided-art/2017/06/09/hexo-next-optimization.html" target="_blank" rel="noopener">打造个性超赞博客 Hexo+NexT+GitHubPages 的超深度优化</a></li></ul></li><li><p>hexo 主题 next 添加标签后会在文章页脚显示标签的 icon，怎么换那个难看的 icon？</p></li><li><p>在 hexo 内优化写出文章的效果，参考 <a href="https://hexo.io/zh-cn/docs/writing.html" target="_blank" rel="noopener">hexo 官方教程</a>。</p></li><li><p>文章多了以后加置顶功能或参考苏克博客的 “最受欢迎” 功能。</p></li><li><p>加支付宝打赏功能。</p></li><li><p>加分享功能，至少能分享到微信。<a href="http://www.cduyzh.com/hexo-settings-3/" target="_blank" rel="noopener">样式参考</a></p></li><li><p>自动在文章底部加微信公众号二维码及推广话语。</p></li><li><p><a href="https://blog.dlzhang.com/posts/89dad1c1/" target="_blank" rel="noopener">Hexo NexT 博客增加简书知乎豆瓣图标支持</a></p></li></ol><p>本网站建设参考链接：</p><p><a href="https://github.com/makcyun/makcyun.github.io" target="_blank" rel="noopener">苏克的 github</a></p><p><a href="https://www.makcyun.top/hexo02.html" target="_blank" rel="noopener">苏克的博客</a></p><h2 id="原创文章写作"><a href="#原创文章写作" class="headerlink" title="原创文章写作"></a>原创文章写作</h2><p>新坑排排坐：</p><ol><li><p>三笔文章完成</p></li><li><p>hello-hexo 文章完成</p><ul><li>hexo 发布流程、需要用到的语法</li><li>hexo 下的 markdown 语法</li><li>网站编辑时对应的 hexo 下的哪些文件</li></ul></li><li><p>墨墨记单词教程</p></li><li><p>99th percentile</p></li><li><p>phantom</p></li></ol><h2 id="系列文章编译"><a href="#系列文章编译" class="headerlink" title="系列文章编译"></a>系列文章编译</h2><ol><li>kubernetes 系列文章</li></ol>]]></content>
       
       
+      <categories>
+          
+          <category> 技术教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> markdown </tag>
+            
+        </tags>
       
     </entry>
     
@@ -69,13 +83,27 @@
     
     
     <entry>
-      <title>Hello Hexo</title>
-      <link href="/hello-world.html"/>
-      <url>/hello-world.html</url>
+      <title>Here I Am, Hello Hexo</title>
+      <link href="/hello-hexo.html"/>
+      <url>/hello-hexo.html</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><a id="more"></a><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
       
       
+      <categories>
+          
+          <category> 技术教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> markdown </tag>
+            
+        </tags>
       
     </entry>
     
