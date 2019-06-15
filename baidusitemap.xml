@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cocoyi.online/prepare-for-catti.html</loc>
-    <lastmod>2019-06-13</lastmod>
+    <lastmod>2019-06-15</lastmod>
+  </url>  <url>
+    <loc>https://cocoyi.online/kubernetes-article-01.html</loc>
+    <lastmod>2019-06-15</lastmod>
   </url>  <url>
     <loc>https://cocoyi.online/to-do-list.html</loc>
     <lastmod>2019-06-13</lastmod>
   </url>  <url>
     <loc>https://cocoyi.online/hello-hexo.html</loc>
-    <lastmod>2019-06-13</lastmod>
-  </url>  <url>
-    <loc>https://cocoyi.online/kubernetes-article-01.html</loc>
     <lastmod>2019-06-13</lastmod>
   </url>
 </urlset>
