@@ -2,16 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://cocoyi.online/prepare-for-catti.html</loc>
+    <loc>https://cocoyi.online/to-do-list.html</loc>
     
-    <lastmod>2019-06-16T15:44:16.101Z</lastmod>
+    <lastmod>2019-06-16T16:14:39.292Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://cocoyi.online/to-do-list.html</loc>
+    <loc>https://cocoyi.online/top/index.html</loc>
     
-    <lastmod>2019-06-16T15:33:02.505Z</lastmod>
+    <lastmod>2019-06-16T16:14:22.407Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cocoyi.online/about/index.html</loc>
+    
+    <lastmod>2019-06-16T16:14:13.008Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cocoyi.online/categories/index.html</loc>
+    
+    <lastmod>2019-06-16T16:14:06.920Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cocoyi.online/tags/index.html</loc>
+    
+    <lastmod>2019-06-16T16:14:00.375Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cocoyi.online/prepare-for-catti.html</loc>
+    
+    <lastmod>2019-06-16T15:44:16.101Z</lastmod>
     
   </url>
   
@@ -26,27 +54,6 @@
     <loc>https://cocoyi.online/hello-hexo.html</loc>
     
     <lastmod>2019-06-16T02:33:04.124Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://cocoyi.online/about/index.html</loc>
-    
-    <lastmod>2019-06-13T09:13:25.289Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://cocoyi.online/tags/index.html</loc>
-    
-    <lastmod>2019-03-22T10:20:40.984Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://cocoyi.online/categories/index.html</loc>
-    
-    <lastmod>2019-03-22T10:19:07.089Z</lastmod>
     
   </url>
   
