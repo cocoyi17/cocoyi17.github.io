@@ -82,14 +82,14 @@
 <meta name="description" content="AV.initialize(&quot;gszMgp1fUIkH7D23sO6V3mrF-gzGzoHsz&quot;, &quot;5WMQ8cYrCfkgOlIjwXoCKxlg&quot;); //需要写上 leancloud 的 key      var time=0   var title=&quot;&quot;   var url=&quot;&quot;   var query = new AV.Query(&apos;Counter&apos;);//表名   query.n">
 <meta name="keywords" content="英语，翻译，新技术">
 <meta property="og:type" content="website">
-<meta property="og:title" content="热门文章 Top 3">
+<meta property="og:title" content="热门文章 Top 10">
 <meta property="og:url" content="https://cocoyi.online/top/index.html">
 <meta property="og:site_name" content="一只上进的狍子">
 <meta property="og:description" content="AV.initialize(&quot;gszMgp1fUIkH7D23sO6V3mrF-gzGzoHsz&quot;, &quot;5WMQ8cYrCfkgOlIjwXoCKxlg&quot;); //需要写上 leancloud 的 key      var time=0   var title=&quot;&quot;   var url=&quot;&quot;   var query = new AV.Query(&apos;Counter&apos;);//表名   query.n">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-06-16T16:48:17.851Z">
+<meta property="og:updated_time" content="2019-06-16T16:53:08.371Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="热门文章 Top 3">
+<meta name="twitter:title" content="热门文章 Top 10">
 <meta name="twitter:description" content="AV.initialize(&quot;gszMgp1fUIkH7D23sO6V3mrF-gzGzoHsz&quot;, &quot;5WMQ8cYrCfkgOlIjwXoCKxlg&quot;); //需要写上 leancloud 的 key      var time=0   var title=&quot;&quot;   var url=&quot;&quot;   var query = new AV.Query(&apos;Counter&apos;);//表名   query.n">
 
 
@@ -126,7 +126,7 @@
 
 
 
-  <title>热门文章 Top 3 | 一只上进的狍子</title>
+  <title>热门文章 Top 10 | 一只上进的狍子</title>
   
 
 
@@ -299,7 +299,7 @@
     <div class="post-block page">
       <header class="post-header">
 
-	<h1 class="post-title" itemprop="name headline">热门文章 Top 3</h1>
+	<h1 class="post-title" itemprop="name headline">热门文章 Top 10</h1>
 
 
 
@@ -320,7 +320,7 @@
   var query = new AV.Query('Counter');//表名
   query.notEqualTo('id',0); //id不为0的结果
   query.descending('time'); //结果按阅读次数降序排序
-  query.limit(3);  //最终只返回10条结果
+  query.limit(20);  //最终只返回10条结果
   query.find().then(function (todo) {
     for (var i=0;i<10;i++){ 
       var result=todo[i].attributes;
