@@ -87,7 +87,7 @@
 <meta property="og:site_name" content="一只上进的狍子">
 <meta property="og:description" content="AV.initialize(&quot;gszMgp1fUIkH7D23sO6V3mrF-gzGzoHsz&quot;, &quot;5WMQ8cYrCfkgOlIjwXoCKxlg&quot;); //需要写上 leancloud 的 key      var time=0   var title=&quot;&quot;   var url=&quot;&quot;   var query = new AV.Query(&apos;Counter&apos;);//表名   query.n">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-06-16T16:41:00.825Z">
+<meta property="og:updated_time" content="2019-06-16T16:48:17.851Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="热门文章 Top 3">
 <meta name="twitter:description" content="AV.initialize(&quot;gszMgp1fUIkH7D23sO6V3mrF-gzGzoHsz&quot;, &quot;5WMQ8cYrCfkgOlIjwXoCKxlg&quot;); //需要写上 leancloud 的 key      var time=0   var title=&quot;&quot;   var url=&quot;&quot;   var query = new AV.Query(&apos;Counter&apos;);//表名   query.n">
@@ -320,7 +320,7 @@
   var query = new AV.Query('Counter');//表名
   query.notEqualTo('id',0); //id不为0的结果
   query.descending('time'); //结果按阅读次数降序排序
-  query.limit(20);  //最终只返回10条结果
+  query.limit(3);  //最终只返回10条结果
   query.find().then(function (todo) {
     for (var i=0;i<10;i++){ 
       var result=todo[i].attributes;
@@ -489,13 +489,13 @@
     <span class="post-meta-divider">|</span>
     <span id="busuanzi_container_site_pv">总访问量：<span id="busuanzi_value_site_pv"></span> 次</span>
     <span class="post-meta-divider">|</span>
-    <span class="post-count">博客全站共 4.6k 字</span>
+    <span class="post-count">博客全站共 4.7k 字</span>
 
 
 <!--添加博客全站共：
 <div class="theme-info">
   <div class="powered-by"></div>
-  <span class="post-count">博客全站共 4.6k 字</span>
+  <span class="post-count">博客全站共 4.7k 字</span>
 </div>-->
 
         
