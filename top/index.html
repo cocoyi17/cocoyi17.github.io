@@ -79,18 +79,18 @@
 
 
 
-<meta name="description" content="var APP_ID = gszMgp1fUIkH7D23sO6V3mrF-gzGzoHsz;  //输入个人LeanCloud账号AppID   var APP_KEY = 5WMQ8cYrCfkgOlIjwXoCKxlg;  //输入个人LeanCloud账号AppKey   AV.init({     appId: APP_ID,     appKey: APP_KEY   })">
+<meta name="description" content="AV.initialize(&quot;gszMgp1fUIkH7D23sO6V3mrF-gzGzoHsz&quot;, &quot;5WMQ8cYrCfkgOlIjwXoCKxlg&quot;); //需要写上leancloud的key    var time=0   var title=&quot;&quot;   var url=&quot;&quot;   var query = new AV.Query(&apos;Counter&apos;);//表名   query.notEqu">
 <meta name="keywords" content="英语，翻译，新技术">
 <meta property="og:type" content="website">
 <meta property="og:title" content="热门文章 Top 3">
 <meta property="og:url" content="https://cocoyi.online/top/index.html">
 <meta property="og:site_name" content="一只上进的狍子">
-<meta property="og:description" content="var APP_ID = gszMgp1fUIkH7D23sO6V3mrF-gzGzoHsz;  //输入个人LeanCloud账号AppID   var APP_KEY = 5WMQ8cYrCfkgOlIjwXoCKxlg;  //输入个人LeanCloud账号AppKey   AV.init({     appId: APP_ID,     appKey: APP_KEY   })">
+<meta property="og:description" content="AV.initialize(&quot;gszMgp1fUIkH7D23sO6V3mrF-gzGzoHsz&quot;, &quot;5WMQ8cYrCfkgOlIjwXoCKxlg&quot;); //需要写上leancloud的key    var time=0   var title=&quot;&quot;   var url=&quot;&quot;   var query = new AV.Query(&apos;Counter&apos;);//表名   query.notEqu">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-06-16T16:22:16.821Z">
+<meta property="og:updated_time" content="2019-06-16T16:30:41.331Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="热门文章 Top 3">
-<meta name="twitter:description" content="var APP_ID = gszMgp1fUIkH7D23sO6V3mrF-gzGzoHsz;  //输入个人LeanCloud账号AppID   var APP_KEY = 5WMQ8cYrCfkgOlIjwXoCKxlg;  //输入个人LeanCloud账号AppKey   AV.init({     appId: APP_ID,     appKey: APP_KEY   })">
+<meta name="twitter:description" content="AV.initialize(&quot;gszMgp1fUIkH7D23sO6V3mrF-gzGzoHsz&quot;, &quot;5WMQ8cYrCfkgOlIjwXoCKxlg&quot;); //需要写上leancloud的key    var time=0   var title=&quot;&quot;   var url=&quot;&quot;   var query = new AV.Query(&apos;Counter&apos;);//表名   query.notEqu">
 
 
 
@@ -311,40 +311,30 @@
       <div class="post-body">
         
         
-          <div id="post-rank"></div>
-
-<script src="//cdn.jsdelivr.net/npm/leancloud-storage@3.10.0/dist/av-min.js"></script>
-<script>
-  var APP_ID = gszMgp1fUIkH7D23sO6V3mrF-gzGzoHsz;  //输入个人LeanCloud账号AppID
-  var APP_KEY = 5WMQ8cYrCfkgOlIjwXoCKxlg;  //输入个人LeanCloud账号AppKey
-  AV.init({
-    appId: APP_ID,
-    appKey: APP_KEY
-  });
-
+          <script src="https://cdn1.lncld.net/static/js/av-core-mini-0.6.1.js"></script>
+<script>AV.initialize("gszMgp1fUIkH7D23sO6V3mrF-gzGzoHsz", "5WMQ8cYrCfkgOlIjwXoCKxlg");</script> //需要写上leancloud的key
+<script type="text/javascript">
+  var time=0
+  var title=""
+  var url=""
   var query = new AV.Query('Counter');//表名
+  query.notEqualTo('id',0); //id不为0的结果
   query.descending('time'); //结果按阅读次数降序排序
-  query.limit(3);  //最终只返回10条结果
-  query.find().then( response => {
-    var content = response.reduce( (accum, {attributes}) => {
-      accum += `<p><div class="prefix">热度 ${attributes.time} ℃</div><div><a href="${attributes.url}">${attributes.title}</a></div></p>`
-      return accum;
-    },"")
-    document.querySelector("#post-rank").innerHTML = content;
-  })
-  .catch( error => {
-    console.log(error);
+  query.limit(20);  //最终只返回10条结果
+  query.find().then(function (todo) {
+    for (var i=0;i<10;i++){ 
+      var result=todo[i].attributes;
+      time=result.time;  //阅读次数
+      title=result.title; //文章标题
+      url=result.url;     //文章url
+      var content="<p>"+"<font color='#0477ab'>"+"【阅读次数:"+time+"】"+"<a href='"+"http://thief.one"+url+"'>"+title+"</font>"+"</a>"+"</p>";
+      // document.write("<a href='"+"http://thief.one/"+url+"'>"+title+"</a>"+"    Readtimes:"+time+"<br>");
+      document.getElementById("heheda").innerHTML+=content
+    }
+  }, function (error) {
+    console.log("error");
   });
 </script>
-
-<style type="text/css">
-  #post-rank {
-    text-align: center;
-  }
-  #post-rank .prefix {
-    color: #ff4d4f;
-  }
-</style>
 
         
       </div>
