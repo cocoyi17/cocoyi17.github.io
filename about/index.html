@@ -329,7 +329,25 @@
 <p>| 我希望践行的事 | </p>
 <blockquote class="blockquote-center">Never Settle & Never Down<br>Follow My Fear & Never Say Never</blockquote>
 
-
+<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>
         
       </div>
       
@@ -508,13 +526,13 @@
     <span class="post-meta-divider">|</span>
     <span id="busuanzi_container_site_pv">总访问量：<span id="busuanzi_value_site_pv"></span> 次</span>
     <span class="post-meta-divider">|</span>
-    <span class="post-count">博客全站共 6.4k 字</span>
+    <span class="post-count">博客全站共 6.7k 字</span>
 
 
 <!--添加博客全站共：
 <div class="theme-info">
   <div class="powered-by"></div>
-  <span class="post-count">博客全站共 6.4k 字</span>
+  <span class="post-count">博客全站共 6.7k 字</span>
 </div>-->
 
         
