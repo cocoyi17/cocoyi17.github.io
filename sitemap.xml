@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://cocoyi.online/hello-hexo.html</loc>
+    
+    <lastmod>2019-06-22T05:08:01.367Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://cocoyi.online/pronounce.html</loc>
     
-    <lastmod>2019-06-19T14:03:36.630Z</lastmod>
+    <lastmod>2019-06-20T02:38:11.896Z</lastmod>
     
   </url>
   
@@ -26,13 +33,6 @@
     <loc>https://cocoyi.online/kubernetes-article-01.html</loc>
     
     <lastmod>2019-06-18T00:51:44.663Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://cocoyi.online/hello-hexo.html</loc>
-    
-    <lastmod>2019-06-18T00:50:05.778Z</lastmod>
     
   </url>
   
