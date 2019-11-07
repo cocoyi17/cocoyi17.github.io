@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://cocoyi.online/prepare-for-catti.html</loc>
+    
+    <lastmod>2019-11-07T05:31:47.081Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://cocoyi.online/reused-experience.html</loc>
     
     <lastmod>2019-11-07T05:20:06.118Z</lastmod>
@@ -26,13 +33,6 @@
     <loc>https://cocoyi.online/kubernetes-article-01.html</loc>
     
     <lastmod>2019-07-19T03:06:05.643Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://cocoyi.online/prepare-for-catti.html</loc>
-    
-    <lastmod>2019-07-19T03:05:58.872Z</lastmod>
     
   </url>
   
