@@ -87,7 +87,7 @@
 <meta property="og:site_name" content="一只上进的狍子">
 <meta property="og:description" content="本文是自 2019 年往后的踩坑集。一般如果是网上搜得到的教程，我都会避免不再重复写一遍。那些解决了我的实际问题的好教程，将它们记录在此处。">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-11-16T04:54:22.719Z">
+<meta property="og:updated_time" content="2019-11-16T10:39:41.203Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="【捣鼓 &amp; 成长】已走的坑，绝不再走！">
 <meta name="twitter:description" content="本文是自 2019 年往后的踩坑集。一般如果是网上搜得到的教程，我都会避免不再重复写一遍。那些解决了我的实际问题的好教程，将它们记录在此处。">
@@ -364,12 +364,18 @@
 
           
           
-
+             <span id="/reused-experience.html" class="leancloud_visitors" data-flag-title="【捣鼓 & 成长】已走的坑，绝不再走！">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">阅读次数&#58;</span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
           
-            <span class="post-meta-divider">|</span>
-            <span class="page-pv"><i class="fa fa-eye"></i> 阅读量:
-            <span class="busuanzi-value" id="busuanzi_value_page_pv"></span>
-            </span>
+
           
 
           
@@ -383,7 +389,7 @@
                   <span class="post-meta-item-text">字数统计&#58;</span>
                 
                 <span title="字数统计">
-                  220 字
+                  221 字
                 </span>
               
 
@@ -432,10 +438,11 @@
 <li>知识共享许可协议：<ul>
 <li><a href="https://zh.wikipedia.org/wiki/%E7%9F%A5%E8%AF%86%E5%85%B1%E4%BA%AB%E8%AE%B8%E5%8F%AF%E5%8D%8F%E8%AE%AE" target="_blank" rel="noopener">知识共享许可协议 - 维基百科，自由的百科全书</a></li>
 <li><a href="https://creativecommons.org/licenses/" target="_blank" rel="noopener">About The Licenses - Creative Commons</a></li>
-<li><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a><br>To be continued…</li>
+<li><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a></li>
 </ul>
 </li>
 </ul>
+<p>To be continued…</p>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
@@ -755,14 +762,6 @@
 </div>-->
 
         
-<div class="busuanzi-count">
-  <script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-
-  
-
-  
-</div>
-
 
 
 
@@ -1263,6 +1262,113 @@
 
 
   
+
+  
+  <script src="https://cdn1.lncld.net/static/js/av-core-mini-0.6.4.js"></script>
+  <script>AV.initialize("gszMgp1fUIkH7D23sO6V3mrF-gzGzoHsz", "5WMQ8cYrCfkgOlIjwXoCKxlg");</script>
+  <script>
+    function showTime(Counter) {
+      var query = new AV.Query(Counter);
+      var entries = [];
+      var $visitors = $(".leancloud_visitors");
+
+      $visitors.each(function () {
+        entries.push( $(this).attr("id").trim() );
+      });
+
+      query.containedIn('url', entries);
+      query.find()
+        .done(function (results) {
+          var COUNT_CONTAINER_REF = '.leancloud-visitors-count';
+
+          if (results.length === 0) {
+            $visitors.find(COUNT_CONTAINER_REF).text(0);
+            return;
+          }
+
+          for (var i = 0; i < results.length; i++) {
+            var item = results[i];
+            var url = item.get('url');
+            var time = item.get('time');
+            var element = document.getElementById(url);
+
+            $(element).find(COUNT_CONTAINER_REF).text(time);
+          }
+          for(var i = 0; i < entries.length; i++) {
+            var url = entries[i];
+            var element = document.getElementById(url);
+            var countSpan = $(element).find(COUNT_CONTAINER_REF);
+            if( countSpan.text() == '') {
+              countSpan.text(0);
+            }
+          }
+        })
+        .fail(function (object, error) {
+          console.log("Error: " + error.code + " " + error.message);
+        });
+    }
+
+    function addCount(Counter) {
+      var $visitors = $(".leancloud_visitors");
+      var url = $visitors.attr('id').trim();
+      var title = $visitors.attr('data-flag-title').trim();
+      var query = new AV.Query(Counter);
+
+      query.equalTo("url", url);
+      query.find({
+        success: function(results) {
+          if (results.length > 0) {
+            var counter = results[0];
+            counter.fetchWhenSave(true);
+            counter.increment("time");
+            counter.save(null, {
+              success: function(counter) {
+                var $element = $(document.getElementById(url));
+                $element.find('.leancloud-visitors-count').text(counter.get('time'));
+              },
+              error: function(counter, error) {
+                console.log('Failed to save Visitor num, with error message: ' + error.message);
+              }
+            });
+          } else {
+            var newcounter = new Counter();
+            /* Set ACL */
+            var acl = new AV.ACL();
+            acl.setPublicReadAccess(true);
+            acl.setPublicWriteAccess(true);
+            newcounter.setACL(acl);
+            /* End Set ACL */
+            newcounter.set("title", title);
+            newcounter.set("url", url);
+            newcounter.set("time", 1);
+            newcounter.save(null, {
+              success: function(newcounter) {
+                var $element = $(document.getElementById(url));
+                $element.find('.leancloud-visitors-count').text(newcounter.get('time'));
+              },
+              error: function(newcounter, error) {
+                console.log('Failed to create');
+              }
+            });
+          }
+        },
+        error: function(error) {
+          console.log('Error:' + error.code + " " + error.message);
+        }
+      });
+    }
+
+    $(function() {
+      var Counter = AV.Object.extend("Counter");
+      if ($('.leancloud_visitors').length == 1) {
+        addCount(Counter);
+      } else if ($('.post-title-link').length > 1) {
+        showTime(Counter);
+      }
+    });
+  </script>
+
+
 
   
 
