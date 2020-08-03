@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://cocoyi.online/reused-experience.html</loc>
+    
+    <lastmod>2020-08-03T10:11:39.195Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cocoyi.online/kubernetes-article-01.html</loc>
+    
+    <lastmod>2020-08-03T10:06:36.096Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cocoyi.online/hit-refresh.html</loc>
+    
+    <lastmod>2020-08-03T10:06:07.020Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://cocoyi.online/1900.html</loc>
     
-    <lastmod>2020-08-03T08:47:54.382Z</lastmod>
+    <lastmod>2020-08-03T09:58:20.202Z</lastmod>
     
   </url>
   
@@ -16,23 +37,9 @@
   </url>
   
   <url>
-    <loc>https://cocoyi.online/hit-refresh.html</loc>
-    
-    <lastmod>2020-08-03T05:41:13.016Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://cocoyi.online/pronounce.html</loc>
     
     <lastmod>2020-08-03T04:41:40.251Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://cocoyi.online/reused-experience.html</loc>
-    
-    <lastmod>2020-01-07T05:42:56.709Z</lastmod>
     
   </url>
   
@@ -47,13 +54,6 @@
     <loc>https://cocoyi.online/prepare-for-catti.html</loc>
     
     <lastmod>2019-11-07T05:37:32.381Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://cocoyi.online/kubernetes-article-01.html</loc>
-    
-    <lastmod>2019-07-19T03:06:05.643Z</lastmod>
     
   </url>
   
