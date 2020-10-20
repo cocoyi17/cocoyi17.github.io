@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://cocoyi.online/pronounce.html</loc>
+    
+    <lastmod>2020-10-20T05:40:01.422Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://cocoyi.online/reused-experience.html</loc>
     
-    <lastmod>2020-08-11T06:44:45.904Z</lastmod>
+    <lastmod>2020-10-20T05:10:36.051Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cocoyi.online/curious-about-everything-issue-1.html</loc>
+    
+    <lastmod>2020-10-20T03:18:30.694Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cocoyi.online/develop-cli-tool.html</loc>
+    
+    <lastmod>2020-09-25T05:17:44.063Z</lastmod>
     
   </url>
   
@@ -33,13 +54,6 @@
     <loc>https://cocoyi.online/hit-refresh.html</loc>
     
     <lastmod>2020-08-03T10:06:07.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://cocoyi.online/pronounce.html</loc>
-    
-    <lastmod>2020-08-03T04:41:40.000Z</lastmod>
     
   </url>
   
