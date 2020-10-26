@@ -2,9 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://cocoyi.online/hello-hexo.html</loc>
+    
+    <lastmod>2020-10-26T08:56:36.669Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://cocoyi.online/reused-experience.html</loc>
     
-    <lastmod>2020-10-26T05:19:55.660Z</lastmod>
+    <lastmod>2020-10-26T08:56:21.979Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cocoyi.online/pronounce.html</loc>
+    
+    <lastmod>2020-10-26T08:56:09.284Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cocoyi.online/prepare-for-catti.html</loc>
+    
+    <lastmod>2020-10-26T08:55:58.069Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cocoyi.online/1900.html</loc>
+    
+    <lastmod>2020-10-26T08:55:50.214Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cocoyi.online/kubernetes-article-01.html</loc>
+    
+    <lastmod>2020-10-26T08:55:32.480Z</lastmod>
     
   </url>
   
@@ -12,41 +47,6 @@
     <loc>https://cocoyi.online/to-do-list.html</loc>
     
     <lastmod>2020-10-26T05:15:49.211Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://cocoyi.online/1900.html</loc>
-    
-    <lastmod>2020-10-26T05:15:10.810Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://cocoyi.online/pronounce.html</loc>
-    
-    <lastmod>2020-10-20T05:54:16.732Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://cocoyi.online/kubernetes-article-01.html</loc>
-    
-    <lastmod>2020-08-03T10:06:36.096Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://cocoyi.online/hello-hexo.html</loc>
-    
-    <lastmod>2019-11-16T11:10:26.828Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://cocoyi.online/prepare-for-catti.html</loc>
-    
-    <lastmod>2019-11-07T05:37:32.381Z</lastmod>
     
   </url>
   
